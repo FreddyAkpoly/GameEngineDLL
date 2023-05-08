@@ -7,7 +7,7 @@
 extern "C"
 {
 	void DLL_EXPORT SayHello(const LPCSTR sometext);
-	
+}
 #endif
 
 #endif // __MAIN_H__
