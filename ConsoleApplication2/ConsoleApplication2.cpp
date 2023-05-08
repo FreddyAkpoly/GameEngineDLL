@@ -4,7 +4,7 @@
 int _tmain(int argc, _TCHAR* argv[])
 {
 	SayHello("Hello World!");
-	
+
 	return 0;
 }
 
