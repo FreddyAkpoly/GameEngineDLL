@@ -129,10 +129,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="ConsoleApplication2.cpp" />
+    <ClCompile Include="ErrorLogManager.cpp" />
+    <ClCompile Include="Main.cpp" />
     <ClCompile Include="stdafx.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="EngineObject.h" />
+    <ClInclude Include="ErrorLogManager.h" />
     <ClInclude Include="MyDLL.h" />
     <ClInclude Include="stdafx.h" />
   </ItemGroup>
